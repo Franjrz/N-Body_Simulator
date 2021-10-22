@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/sim-soa.dir/sim-soa.cpp.o -o sim-soa 
