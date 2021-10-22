@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kubuntulegion/github/N-Body_Simulator/sim-soa.cpp
+iostream
+-
+vector
+-
+math.h
+-
+algorithm
+-
+fstream
+-
+string
+-
+random
+-
+iomanip
+-
+

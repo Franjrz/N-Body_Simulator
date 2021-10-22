@@ -1,0 +1,4 @@
+/home/kubuntulegion/github/N-Body_Simulator/build/CMakeFiles/rebuild_cache.dir
+/home/kubuntulegion/github/N-Body_Simulator/build/CMakeFiles/edit_cache.dir
+/home/kubuntulegion/github/N-Body_Simulator/build/CMakeFiles/sim-soa.dir
+/home/kubuntulegion/github/N-Body_Simulator/build/CMakeFiles/sim-aos.dir

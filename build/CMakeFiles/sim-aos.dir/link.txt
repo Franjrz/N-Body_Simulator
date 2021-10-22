@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/sim-aos.dir/sim-aos.cpp.o -o sim-aos 
